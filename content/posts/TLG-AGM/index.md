@@ -143,3 +143,15 @@ CEO:
 
 Chủ tịch: 
 > Chúng tôi tự sản xuất bút, mực. Xuất khẩu đi Nhật được chứng tỏ chất lượng đảm bảo. UY TÍN: khi ngta giao mẫu thiết kế thì thiết kế là của họ. Chúng tôi chỉ sở hữu công nghệ.
+
+---
+
+![](TLG1.jpg)
+
+![](TLG2.jpg)
+
+![](TLG3.jpg)
+
+![](TLG4.jpg)
+
+![](TLG5.jpg)
