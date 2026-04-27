@@ -1,0 +1,13 @@
+baseURL = "https://leondramendoza.github.io/"
+languageCode = "en-us"
+title = "Leondra Mendoza"
+theme = "PaperMod"
+
+[pagination]
+pagerSize = 10
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
