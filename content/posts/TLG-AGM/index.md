@@ -146,12 +146,12 @@ Chủ tịch:
 
 ---
 
-![](TLG1.jpg)
+{{< figure src="TLG1.jpg" caption="Quà tặng của Thiên Long, bút khá xịn, chắc sản phẩm mới, nhìn rất eco-friendly" >}}
 
-![](TLG2.jpg)
+{{< figure src="TLG2.jpg" caption="Quà tặng của Thiên Long, bút khá xịn, chắc sản phẩm mới, nhìn rất eco-friendly" >}}
 
-![](TLG3.jpg)
+{{< figure src="TLG3.jpg" caption="Quà tặng của Thiên Long, bút khá xịn, chắc sản phẩm mới, nhìn rất eco-friendly" >}}
 
-![](TLG4.jpg)
+{{< figure src="TLG4.jpg" caption="Buffet nghỉ giải lao" >}}
 
-![](TLG5.jpg)
+{{< figure src="TLG5.jpg" caption="Đồ ăn khá ngon, chả giò ngon cực!" >}}
