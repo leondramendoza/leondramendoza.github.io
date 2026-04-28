@@ -5,8 +5,8 @@ draft: false
 ---
 
 Kế hoạch 2026:
-+ Doanh thu: 1300 tỉ - tăng 102.4% svck
-+ Lợi nhuận trước thuế: 960 tỉ - tăng 102.2% svck
++ Doanh thu: 1300 tỉ, tăng 102.4% svck
++ Lợi nhuận trước thuế: 960 tỉ, tăng 102.2% svck
 
 ---
 Cổ tức 2025:
@@ -60,7 +60,7 @@ Lãnh đạo trả lời về Long Thành, Trung Đông và bức tranh xấu nh
 > + Đầu tháng 1, tôi có mời các airlines trong buổi họp mặt đầu năm. Anh tổng giám đốc ACV chia sẻ: ACV là cổ đông của SCSC, ACV có trách nhiệm hỗ trợ SCSC
 > + SCSC đã ký "biên bản ghi nhớ cùng phát triển hàng hoá" với ACV (biên bản bảo mật, không thể tiết lộ). Cả 2 đang đồng hành.
 > + Nghị định 68 của chính phủ, kinh tế tư nhân bình đẳng với FDI và nhà nước, nhờ việc này mà khả năng tham gia của SCSC vào các dự án tới thuận lợi hơn. Có thể giam gia với phương thức PPP (cùng vận hành và chia lợi nhuận)
-> + Hôm thứ 6 vừa rồi tôi có họp với lãnh đạo sân bay Gia Bình, người ta có quan tâm tới SCSC. Người ta nói SCS là công ty làm thật, vận hành thật và có tiền thật. Tôi nghĩ đây là cơ hội trong tương lai sắp tới
+> + Hôm thứ 6 vừa rồi tôi có họp với lãnh đạo sân bay Gia Bình, người ta có quan tâm tới SCSC. Người ta nói SCS là công ty làm thật, vận hành thật và có tiền thật. Tôi nghĩ đây là cơ hội trong tương lai sắp tới.
 > + Có thể sẽ thay đổi chiến lược, không chấp nhận với những gì đã có
 > + Đã đưa hệ thống lên AWS (Amazon Web Services). SCSC là công ty logistics đầu tiên của VN áp dụng AWS cho mảng này.
 > + Chúng ta là công ty mà nhà nước không chiếm tỉ lệ cao, nên chúng ta có cơ hội
