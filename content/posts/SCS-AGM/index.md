@@ -6,7 +6,7 @@ draft: false
 
 Kế hoạch 2026:
 + Doanh thu: 1300 tỉ - tăng 102.4% svck
-+ LN trước thuế: 960 tỉ - tăng 102.2% svck
++ Lợi nhuận trước thuế: 960 tỉ - tăng 102.2% svck
 
 ---
 Cổ tức 2025:
@@ -17,7 +17,7 @@ Tờ trình ESOP cho nhân viên: ~1tr cp mới mệnh giá 10k.
 
 ---
 Hỏi:
-> + Tổng doanh thu và LN trước thuế khá ok, nhưng tỉ lệ trả cổ tức giảm sút. Cổ phiếu khá lình xình. Hy vọng có cổ tức xứng đáng khi lãi suất ngân hàng tăng cao.
+> + Tổng doanh thu và lợi nhuận trước thuế khá ok, nhưng tỉ lệ trả cổ tức giảm sút. Cổ phiếu khá lình xình. Hy vọng có cổ tức xứng đáng khi lãi suất ngân hàng tăng cao.
 > + Khi sân bay Long Thành mở ra, có nhiều khách hàng quốc tế, kế hoạch của công ty ra sao?
 > + Kế hoạch tăng doanh thu lợi nhuận. Chỉ có TCS và SCSC làm mảng này, có ý định tăng khách hàng không?
 
@@ -37,8 +37,8 @@ Hỏi:
 ---
 Hỏi:
 > + Liên quan sân bay Long Thành, một ga giao cho ACV, còn SCS sẽ tham gia như nào?
->   + Nếu tham gia Long Thành thì LN bao nhiêu?
->   + Không tham gia Long Thành thì LN bao nhiêu?
+>   + Nếu tham gia Long Thành thì lợi nhuận bao nhiêu?
+>   + Không tham gia Long Thành thì lợi nhuận bao nhiêu?
 
 ---
 Hỏi:
@@ -67,12 +67,12 @@ Lãnh đạo trả lời về Long Thành, Trung Đông và bức tranh xấu nh
 > + Chúng ta có 50 triệu USD tiền mặt, tiền không là gì hết.
 > + Dù là công ty hạ tầng hay công ty dịch vụ, chúng ta đều phải đầu tư hạ tầng.
 > + Chi phí tăng lên vì chúng tôi trích dự phòng, để an toàn cho Q2/2026
-> + Tác động của Trung Đông: trong tháng 3 mình không có hàng gì hết! Máy bay sợ không có dầu để bay nữa! Emirates và Qatar nói họ đang "bị bệnh". Dù sao trong tháng 3, mình có bị giảm LN nhưng không quá lớn. Có cái hay là khách hàng không đi với ông này thì đi với ông khác. Hàng hoá giảm 20% so với kế hoạch.
+> + Tác động của Trung Đông: trong tháng 3 mình không có hàng gì hết! Máy bay sợ không có dầu để bay nữa! Emirates và Qatar nói họ đang "bị bệnh". Dù sao trong tháng 3, mình có bị giảm lợi nhuận nhưng không quá lớn. Có cái hay là khách hàng không đi với ông này thì đi với ông khác. Hàng hoá giảm 20% so với kế hoạch.
 
 ---
 BLĐ tiếp tục:
 > + Trong tháng 3, thị trường rất nóng bỏng về giá dầu, máy bay dừng bay. Blđ đang bám sát từng con số
-> + Vì tỉ suất LNG giảm, phải tối ưu tăng năng suất lao động bằng cách "số hoá"
+> + Vì tỉ suất lợi nhuậnG giảm, phải tối ưu tăng năng suất lao động bằng cách "số hoá"
 > + Phải chuẩn bi kịch bản ứng phó
 > + Về việc "cán bộ SCSC sống sung sướng", SCS trả lương không cao, phải dùng ESOP để giữ chân nhân sự giỏi. Năm ngoái, ESOP đã bị dừng.
 > + Thị trường nhìn thấy SCSC là "không có cơ hội tăng trưởng" nên giá không tăng
@@ -101,13 +101,13 @@ BLĐ trả lời:
 ---
 
 BLĐ:
-> + Hướng thứ 2, đang làm việc với Gia Bình để tham gia vận hành
+> + Về hướng thứ 2, đang làm việc với Gia Bình để tham gia vận hành
 > + Tin tưởng cơ chế quản lý của nhà nước 🫤
 
 ---
 Hỏi:
 > + Sau khi Gia Bình vận hành thì Nội Bài và Tân Sơn Nhất như nào?
-> + Đóng góp của sb Trung Đông vào SCS như nào
+> + Đóng góp của khách hàng Trung Đông vào SCS như nào
 > + Kịch bản doanh thu và lợi nhuận?
 
 BLĐ:
@@ -117,26 +117,26 @@ BLĐ:
 
 ---
 
-{{< figure src="SCS1.jpg" caption="" >}}
+{{< figure src="SCS1.jpg" caption="Tòa nhà văn phòng rất to và sang trọng nha ae. :p" >}}
 
-{{< figure src="SCS2.jpg" caption="" >}}
+{{< figure src="SCS2.jpg" caption="Tòa nhà văn phòng rất to và sang trọng nha ae. :p" >}}
 
-{{< figure src="SCS3.jpg" caption="" >}}
+{{< figure src="SCS3.jpg" caption="Tài liệu họp dài cộm được in chỉn chu và phát cho cổ đông." >}}
 
-{{< figure src="SCS4.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
+{{< figure src="SCS4.jpg" caption="Đường đi vào khu họp chắc 1km. 🙂" >}}
 
 {{< figure src="SCS5.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
 
 {{< figure src="SCS6.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
 
-{{< figure src="SCS7.jpg" caption="" >}}
+{{< figure src="SCS7.jpg" caption="Không khí họp hơi chán, toàn đọc thuộc lòng như đang dự giờ. 🫤" >}}
 
-{{< figure src="SCS8.jpg" caption="" >}}
+{{< figure src="SCS8.jpg" caption="Bánh trái ngon lắm nha ace. :p" >}}
 
-{{< figure src="SCS9.jpg" caption="" >}}
+{{< figure src="SCS9.jpg" caption="Nước uống đủ loại." >}}
 
-{{< figure src="SCS10.jpg" caption="" >}}
+{{< figure src="SCS10.jpg" caption="Dĩa thứ nhất. 🤤" >}}
 
-{{< figure src="SCS11.jpg" caption="" >}}
+{{< figure src="SCS11.jpg" caption="Dĩa thứ hai. 😋" >}}
 
-{{< figure src="SCS12.jpg" caption="" >}}
+{{< figure src="SCS12.jpg" caption="Dĩa thứ ba. 😺" >}}
