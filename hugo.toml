@@ -2,6 +2,7 @@ baseURL = "https://leondramendoza.github.io/"
 languageCode = "en-us"
 title = "Leondra Mendoza"
 theme = "PaperMod"
+buildFuture = true
 
 [pagination]
 pagerSize = 10
