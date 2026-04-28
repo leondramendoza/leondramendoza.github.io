@@ -13,7 +13,7 @@ Cổ tức 2025:
 + Tiền: 50% - đã tạm ứng 25% (26/01/2026), còn 25% đợt 2
 
 ---
-Tờ trình ESOP cho nhân viên: ~1tr cp mới mệnh giá 10k.
+Tờ trình ESOP cho nhân viên: ~1 triệu cổ phiếu mới mệnh giá 10k.
 
 ---
 Hỏi:
@@ -71,8 +71,8 @@ Lãnh đạo trả lời về Long Thành, Trung Đông và bức tranh xấu nh
 
 ---
 BLĐ tiếp tục:
-> + Trong tháng 3, thị trường rất nóng bỏng về giá dầu, máy bay dừng bay. Blđ đang bám sát từng con số.
-> + Vì tỉ suất lợi nhuậnG giảm, phải tối ưu tăng năng suất lao động bằng cách "số hoá"
+> + Trong tháng 3, thị trường rất nóng bỏng về giá dầu, máy bay dừng bay. BLĐ đang bám sát từng con số.
+> + Vì tỉ suất lợi nhuận gộp giảm, phải tối ưu tăng năng suất lao động bằng cách "số hoá"
 > + Phải chuẩn bi kịch bản ứng phó
 > + Về việc "cán bộ SCSC sống sung sướng", SCS trả lương không cao, phải dùng ESOP để giữ chân nhân sự giỏi. Năm ngoái, ESOP đã bị dừng.
 > + Thị trường nhìn thấy SCSC là "không có cơ hội tăng trưởng" nên giá không tăng
@@ -86,7 +86,7 @@ Một cổ đông lớn tuổi hỏi:
 > + Kế hoạch với công ty Lufthansa để bảo trì máy bay ở sân bay Tân Sơn Nhất có tiếp tục không?
 
 BLĐ trả lời:
-> + Sau khi LT hoạt động, sân đỗ ở TSN sẽ dư thừa. Đó là lý do BLĐ đang tìm cách sử dụng miếng đất này.
+> + Sau khi Long Thành hoạt động, sân đỗ ở Tân Sơn Nhất sẽ dư thừa. Đó là lý do BLĐ đang tìm cách sử dụng miếng đất này.
 > + **Lufthansa là công ty bảo dưỡng máy bay hàng đầu thế giới**. Chúng tôi chỉ làm với công ty top 3 của thế giới. Chúng ta chỉ cần đặt bút ký. Vấn đề là **khi nào Long Thành hoạt động?**
 > + Trong "dịch vụ tổng hợp hàng không" thì "dịch vụ bảo dưỡng" cũng nằm trong đó. Chúng ta phải báo cáo và xin phép với quân đội. Chúng tôi đã báo cáo với A41, nhưng chưa có hướng dẫn cụ thể về việc "chuyển sân đỗ thành hangar".
 > + Trong tháng 5, bộ sẽ xem xét về việc sử dụng đất đai để tránh lãng phí về miếng đất đó.
