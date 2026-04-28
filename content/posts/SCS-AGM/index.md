@@ -71,7 +71,7 @@ Lãnh đạo trả lời về Long Thành, Trung Đông và bức tranh xấu nh
 
 ---
 BLĐ tiếp tục:
-> + Trong tháng 3, thị trường rất nóng bỏng về giá dầu, máy bay dừng bay. Blđ đang bám sát từng con số
+> + Trong tháng 3, thị trường rất nóng bỏng về giá dầu, máy bay dừng bay. Blđ đang bám sát từng con số.
 > + Vì tỉ suất lợi nhuậnG giảm, phải tối ưu tăng năng suất lao động bằng cách "số hoá"
 > + Phải chuẩn bi kịch bản ứng phó
 > + Về việc "cán bộ SCSC sống sung sướng", SCS trả lương không cao, phải dùng ESOP để giữ chân nhân sự giỏi. Năm ngoái, ESOP đã bị dừng.
@@ -111,7 +111,7 @@ Hỏi:
 > + Kịch bản doanh thu và lợi nhuận?
 
 BLĐ:
-> + Gia Bình 2k hecta, hàng hoá 60 hecta. Long Thành 5k hect, ...
+> + Gia Bình 2k hecta, hàng hoá 60 hecta. Long Thành 5k hecta, ...
 > + Emirates và Qatar chiếm 20% hàng hoá của SCSC
 > + Phải cố gắng làm thôi
 
