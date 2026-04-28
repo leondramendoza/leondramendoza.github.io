@@ -123,11 +123,11 @@ BLĐ:
 
 {{< figure src="SCS3.jpg" caption="" >}}
 
-{{< figure src="SCS4.jpg" caption="" >}}
+{{< figure src="SCS4.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
 
-{{< figure src="SCS5.jpg" caption="" >}}
+{{< figure src="SCS5.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
 
-{{< figure src="SCS6.jpg" caption="" >}}
+{{< figure src="SCS6.jpg" caption="Kho rất rất to và chuyên nghiệp, đúng như Core Value \"Professionalism\"." >}}
 
 {{< figure src="SCS7.jpg" caption="" >}}
 
