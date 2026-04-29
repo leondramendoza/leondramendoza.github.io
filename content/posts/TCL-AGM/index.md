@@ -77,4 +77,12 @@ Hỏi:
 > Có kế hoạch tăng vốn không?
 
 Đáp:
-> Có. Khi dự án chín muồi, chúng tôi sẽ tăng vốn ngay. Mục đích của quỹ này cũng là như vậy. Quỹ đầu tư phát triển 300 tỉ là không nhiều nữa rồi vì giá đất đang tăng rất cao. Ở Cái Mép, 10 hecta là mất 20 triệu USD, gấp gần 2 lần vốn của chúng ta. Chúng tôi sẽ cân nhắc hiệu quả sử dụng vốn.
+> **Có. Khi dự án chín muồi, chúng tôi sẽ tăng vốn ngay**. Mục đích của quỹ này cũng là như vậy. Quỹ đầu tư phát triển 300 tỉ là không nhiều nữa rồi vì giá đất đang tăng rất cao. Ở Cái Mép, 10 hecta là mất 20 triệu USD, gấp gần 2 lần vốn của chúng ta. Chúng tôi sẽ cân nhắc hiệu quả sử dụng vốn.
+
+---
+
+{{< figure src="TCL1.jpg" caption="" >}}
+
+{{< figure src="TCL2.jpg" caption="" >}}
+
+{{< figure src="TCL3.jpg" caption="" >}}
