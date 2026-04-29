@@ -106,12 +106,10 @@ BLĐ:
 
 ---
 Hỏi:
-> + Sau khi Gia Bình vận hành thì Nội Bài và Tân Sơn Nhất như nào?
 > + Đóng góp của khách hàng Trung Đông vào SCS như nào
 > + Kịch bản doanh thu và lợi nhuận?
 
 BLĐ:
-> + Gia Bình 2k hecta, hàng hoá 60 hecta. Long Thành 5k hecta, ...
 > + Emirates và Qatar chiếm 20% hàng hoá của SCSC
 > + Phải cố gắng làm thôi
 
